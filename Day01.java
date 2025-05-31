@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Main {
+public class Day01 {
     public static void main(String[] args) {
         ArrayList<Integer> leftList = getFileDataLeftList("src/Lists");
         ArrayList<Integer> rightList = getFileDataRightList("src/Lists");
